@@ -15,3 +15,8 @@ JAVA code:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Here is a task list:  
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
